@@ -1,0 +1,12 @@
+# Fictional illustration only; not a real plugin's configuration schema.
+season: 5
+world: test-world
+shop:
+  enabled: true
+  currency_name: emeralds
+  transaction_log: simulated
+  retry_policy: review-required
+validation:
+  duplicate_transaction_check: pending
+  owner: ByteMiner
+  approver: RedstoneRanger
