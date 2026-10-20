@@ -23,4 +23,4 @@ Public-facing notes and *illustrative* configuration samples for BlockHaven SMP 
 
 For official updates, see the BlockHaven website's News and Changelog pages.
 
-**Contact:** Alex Morgan — alex.blockhaven@gmail.com (fictional target identity for the exercise; do not send challenge submissions to this address).
+**Contact:** Alex Morgan — alex.blockhaven@gmail.com
